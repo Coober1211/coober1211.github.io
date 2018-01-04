@@ -7,7 +7,8 @@ window.onload = function() {
         jsImg: 'static/image/javascript30.png',
         tags: ['D3', 'Vue.js', 'Javascript30'],
         projectList: [
-          {title: 'Frequency-Count', tags: ['D3.js'], url: `https://coober1211.github.io/Frequency-Count`, img: 'static/image/d3.png'},          
+          {title: 'Vue-Piano', tags: ['Vue.js'], url: `https://coober1211.github.io/Vue-Piano`, img: 'static/image/vue.png'},          
+          {title: 'Frequency-Count', tags: ['D3.js'], url: `https://coober1211.github.io/Frequency-Count`, img: 'static/image/d3.png'},
           {title: 'Drum-Kit', tags: ['Javascript30'], url: `https://coober1211.github.io/Drum-Kit`, img: 'static/image/javascript30.png'},
           {title: 'Clock', tags: ['Javascript30'], url: `https://coober1211.github.io/Clock`, img: 'static/image/javascript30.png'},
           {title: 'CSS-Variables', tags: ['Javascript30'], url: `https://coober1211.github.io/CSS-Variables`, img: 'static/image/javascript30.png'},
